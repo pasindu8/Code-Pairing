@@ -1,2 +1,2 @@
-# Code-Pairing
-Connect Whatsapp With Baileys Code Pairing
+# GSS-BOT-WA-PairCode
+Pair code generator for whatsapp bots
